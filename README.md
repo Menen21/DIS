@@ -1,3 +1,1 @@
 # DIS
-# sadhba
-# jsadna
